@@ -1,3 +1,4 @@
 {
-    "backendUrl": "http://127.0.0.1:5000"
+    "backendUrl": "http://internal-backend-lb-1791461205.us-east-2.elb.amazonaws.com:5000"
+
 }
